@@ -153,11 +153,11 @@ export const LANGUAGES_URL = [
     //     folder: "sv",
     //     url: getLanguageUrl("swedish"),
     // },
-    // {
-    //     language: "tchinese",
-    //     folder: "zh-TW",
-    //     url: getLanguageUrl("tchinese"),
-    // },
+    {
+        language: "tchinese",
+        folder: "zh-TW",
+        url: getLanguageUrl("tchinese"),
+    },
     // {
     //     language: "thai",
     //     folder: "th",
